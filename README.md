@@ -1,4 +1,6 @@
 pdx-c1-foundations
 ==================
 
-Code Fellows Portland Foundations lass repository
+Code Fellows Portland Foundations – Class Code Repository
+
+
