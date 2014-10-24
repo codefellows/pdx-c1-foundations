@@ -4,4 +4,4 @@ pdx-c1-foundations
 
 Code Fellows Portland Foundations – Class Code Repository
 
-
+[Canvas Link](https://canvas.instructure.com/courses/892166) (for enrolled students only)
